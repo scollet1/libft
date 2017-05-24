@@ -12,8 +12,7 @@
 
 NAME = libft.a
 
-SRCS = 	ft_puterr.c 	\
-		ft_atoi.c 		\
+SRCS = ft_atoi.c 		\
 		ft_bzero.c 		\
 		ft_count_words.c\
 		ft_isalnum.c 	\
